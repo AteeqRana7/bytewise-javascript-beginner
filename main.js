@@ -25,3 +25,77 @@
 // const res = undefined;
 
 // const data = null;
+
+// const person = {
+//   firstName: "Ateeq",
+//   age: 25,
+// };
+
+// console.log(person.firstName);
+
+// const oddNumbers = [1, 3, 5, 7];
+
+// console.log(oddNumbers[2]);
+
+// let x = 10;
+// let y = 7;
+
+// let c = x + y;
+// let d = x - y;
+// let e = x / y;
+// let f = x * y;
+// let a = ++x;
+// let b = --x;
+
+// console.log(x === y)
+
+// const isValidNumber = x > 8 && 8 > y;
+// console.log(isValidNumber)
+
+// console.log("Ateeq" + "Rana");
+
+// const isEven = 10 % 2 === 0 ? true : false;
+// console.log(isEven);
+
+// console.log(Number(false));
+
+// const num = 10;
+
+// if (num > 10) {
+//   console.log("Greater than 10");
+// } else {
+//   console.log("Smaller than 10");
+// }
+
+// if (num > 10) {
+//   console.log("Greater than 10");
+// } else if (num < 10) {
+//   console.log("Smaller than 10");
+// } else {
+//   console.log("ERROR");
+// }
+
+// const color = "red";
+
+// switch (color) {
+//   case "red":
+//     console.log("RED");
+//     break;
+//   case "blue":
+//     console.log("BLUE");
+//     break;
+//   default:
+//     console.log("NOT VALID");
+// }
+
+// for (let index = 0; index < 2; index++) {
+//   console.log("HELLO");
+// }
+
+// const num = 2;
+// let i = 0;
+
+// while (i !== num) {
+//   console.log(i);
+//   i++;
+// }
