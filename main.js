@@ -99,3 +99,28 @@
 //   console.log(i);
 //   i++;
 // }
+
+// const nums = [1, 2, 3, 4, 5];
+
+// for (const num of nums) {
+//   console.log(num);
+// }
+
+// function greet(name) {
+//   console.log("Hello World " + name);
+// }
+
+// greet("Ateeq");
+
+// function add(a, b) {
+//   return a + b;
+// }
+
+// const sum = add(5, 5);
+// console.log(sum);
+
+// const add = (a, b) => {
+//   return a + b;
+// };
+
+// console.log(add(5, 2));
